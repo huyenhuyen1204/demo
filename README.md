@@ -16,4 +16,7 @@ git push
 (push -u // init project)
 (push -u // init project)
 
-# open
+# branches
+1. master --- chạy ok
+2. dev 
+3. dev-user, dev-huyen, feature/login
