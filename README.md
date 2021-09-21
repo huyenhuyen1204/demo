@@ -13,5 +13,7 @@ git init
 git add <file_name> / .
 git commit -m "message ..."
 git push 
+(push -u // init project)
+(push -u // init project)
 
 # open
