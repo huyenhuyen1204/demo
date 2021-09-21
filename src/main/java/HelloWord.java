@@ -1,5 +1,5 @@
 public class HelloWord {
     public static void main(String[] args) {
-        System.out.println("Hello feature/hello");
+        System.out.println("Hello Intellij GIT");
     }
 }
